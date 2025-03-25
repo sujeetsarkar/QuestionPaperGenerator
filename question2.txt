@@ -1,0 +1,15 @@
+(21) what is your name? [10M]
+	1)dnfnjg			2)cdnfjnjgbn
+	3)nvdbghbh			4)fsfdgwf 
+(22) what is your father name? [10M]
+	1)dnfnjg			2)cdnfjnjgbn
+	3)nvdbghbh			4)fsfdgwf 
+(23) what is your brothe name? [10M]
+	1)dnfnjg			2)cdnfjnjgbn
+	3)nvdbghbh			4)fsfdgwf 
+(24) what is your sister name? [10M]
+	1)dnfnjg			2)cdnfjnjgbn
+	3)nvdbghbh			4)fsfdgwf 
+(25) what is your mom name? [10M]
+	1)dnfnjg			2)cdnfjnjgbn
+	3)nvdbghbh			4)fsfdgwf 
